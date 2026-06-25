@@ -1,7 +1,7 @@
 # **AutoJoinParty**
 
 **AutoJoinParty** is a lightweight, high-performance client-side Fabric utility mod designed specifically for competitive players on PvP servers. It automates public party joining and introduces real-time group party coordination.
-### This mod has been mainly tested on version 1.21.11. Other versions have not been tested extensively and may contain bugs or compatibility issues. If you encounter any problems, please report them through this website: https://mods-watrak.vercel.app
+### This mod has been mainly tested on version 1.21.11. Other versions have not been tested extensively and may contain bugs or compatibility issues. If you encounter any problems, please report them through the issue page on github 
 
 
 ---
